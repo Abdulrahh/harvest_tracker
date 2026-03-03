@@ -1,9 +1,12 @@
 # harvest_tracker
 class activity 
+---
 A local farming cooperative needs a program to record the weight
 of 4 crates of produce from a single harvest. The program
 calculates the total weight and checks if the batch meets the
 "Export Quality" standard.
+
+
 ----
 Requirement:
 
